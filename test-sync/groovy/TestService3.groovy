@@ -1,7 +1,5 @@
-import groovy.template.MicroServiceBizTemplate
 
-
-class TestService3 extends MicroServiceBizTemplate  {  
+class TestService3   {  
 
 	public void test(){
 		System.out.println("this is test3");
